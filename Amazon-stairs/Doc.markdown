@@ -19,9 +19,3 @@ Usar um array para armazenar resultados parciais permite um cálculo eficiente a
 
 - **SOLID:** O código tem uma única responsabilidade: resolver o problema específico de contar as maneiras de subir a escada.
 - **Clean Code:** Variáveis descritivas (`ways`, `step`) e lógica clara e linear.
-
----
-
-Vamos crescer juntos como profissionais de tecnologia! 🚀🔍
-
----
